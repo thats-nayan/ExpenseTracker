@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #555; /* slightly lighter color */
+    padding: 10px;
+  }
+  
+  
+  .navbar-nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .nav-link:hover {
+    background-color: #555;
+  }
+  
